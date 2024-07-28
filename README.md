@@ -136,3 +136,4 @@ The Dockerfiles used for the creation of these lab images are available from the
 ---
 
 ![DiveIntoAnsible Cover](DiveIntoAnsible_Cover.png?raw=true "Dive Into Ansible")
+# git-lab
